@@ -52,7 +52,7 @@ To enhance the accuracy of `openai/whisper-large-v3` for transcribing Icelandic 
 
 1.  **Clone Repository (Replace with your repo URL):**
     ```bash
-    git clone https://your-repo-url/ice-whisper.git
+    git clone https://github.com/joenaess/ice-whisper
     cd ice-whisper
     ```
 
