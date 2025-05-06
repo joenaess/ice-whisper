@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+# Project-specific files
+RADDROMUR_22.09.zip
+RADDROMUR_22.09/
+README.txt
+stuff.txt
+nohup.out
+test.py
+whisper-large-v3-is-raddromur-lora-wandb/
+wandb/
+
 # Distribution / packaging
 .Python
 build/
